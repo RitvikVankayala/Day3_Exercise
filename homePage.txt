@@ -1,2 +1,5 @@
 This is home page
 Created by RitvikVankayala
+
+
+Click on the dashboard button to move to dashboard
